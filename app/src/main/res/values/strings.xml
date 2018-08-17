@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">工单系统</string>
+    <string name="title_home">Student</string>
+    <string name="title_dashboard">Enrollment</string>
+    <string name="title_notifications">Course</string>
+    <string name="button_delete">删除</string>
+    <string name="button_edit">编辑</string>
+    <string name="student_id">Student Id</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_password">Student Password</string>
+    <string name="enrollment_grade">Enrollment Grade</string>
+    <string name="course_id">Course Id</string>
+    <string name="course_title">Course Title</string>
+    <string name="course_credits">Course Credits</string>
+
+    <string name="discovered_lpms_b_devices">扫描的手环设备</string>
+    <string name="connected_lpms_b_devices">已连接的手环设备</string>
+    <string name="logging_status">记录状态</string>
+    <string name="logging_is_off">状态为关闭</string>
+    <string name="connection_control">连接控制</string>
+    <string name="discover">寻找设备</string>
+    <string name="connect">设备连接</string>
+    <string name="disconnect">断开连接</string>
+    <string name="start_operate">开始操作</string>
+    <string name="end_operate">结束操作</string>
+    <string name="logging">Logging</string>
+    <string name="start_logging">Start logging</string>
+    <string name="stop_logging">Stop logging</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="magnetometer">Magnetometer</string>
+    <string name="logging_to">Logging to</string>
+    <string name="linear_acceleration">Linear Acceleration</string>
+    <string name="euler_angle">Euler Angle</string>
+    <string name="quaternion">Quaternion</string>
+    <string name="measuring">measuring</string>
+    <string name="stopped">stopped</string>
+    <string name="capture">捕获</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
